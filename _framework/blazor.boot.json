@@ -1,5 +1,5 @@
 {
-  "cacheBootResources": true,
+  "cacheBootResources": false,
   "config": [ ],
   "debugBuild": false,
   "entryAssembly": "paths",
@@ -21,7 +21,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-YColTWA58whC+8aBjv1O7HgsyYrbHTba601EkNDWAlo=",
       "Microsoft.JSInterop.dll": "sha256-WhTStju56B0jEp0ETVE3\/peNEpVW\/qfZKvMUoH1S+jo=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-vzwaIvFhA\/CHxhMcXKNUOu7C+zSrSm+hvDEmZhciN54=",
-      "paths.dll": "sha256-vvqmM+a38+ymlqReXJMItP7smO2so+e8V58dhIQynYI=",
+      "paths.dll": "sha256-aNXG4ee9Kq1xHTE4rHJlTwAT5NwAIuOBWqjnxOgtoUY=",
       "System.Collections.Concurrent.dll": "sha256-hGhgu\/OS\/8+hJZ6imA9Og15rFiJ++eaGKY+K1Nc6tWc=",
       "System.Collections.dll": "sha256-p1srKQMB35eYkVm0oAu74UaxHjlrhDYR1SIIjpnx4QQ=",
       "System.ComponentModel.dll": "sha256-xPl13TsFTPZZhDa4WyYTkzfZSBm0UXve\/NnDagg5oDs=",
@@ -40,13 +40,13 @@
     "libraryInitializers": null,
     "pdb": null,
     "runtime": {
-      "dotnet.6.0.4.dckq00jdfr.js": "sha256-WYno\/cK5MDsl5yi4T\/\/QgUskbBfhLL77i+c0uKzO9+c=",
+      "dotnet.6.0.4.4d69jljngx.js": "sha256-WYno\/cK5MDsl5yi4T\/\/QgUskbBfhLL77i+c0uKzO9+c=",
       "dotnet.timezones.blat": "sha256-IAZQkATPLfknBs7WdmI3T1SiL6xDp4WjMEnYenpVpcE=",
       "dotnet.wasm": "sha256-dUtbJm\/zyNmS2uJGdTt76aKjRCAfIqtbSbEiD8NVMJ8=",
-      "icudt.dat": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",
       "icudt_CJK.dat": "sha256-WPyI4hWDPnOw62Nr27FkzGjdbucZnQD+Ph+GOPhAedw=",
       "icudt_EFIGS.dat": "sha256-4RwaPx87Z4dvn77ie\/ro3\/QzyS+\/gGmO3Y\/0CSAXw4k=",
-      "icudt_no_CJK.dat": "sha256-OxylFgLJlFqixsj+nLxYVsv5iZLvfIKMpLf9hrWaChA="
+      "icudt_no_CJK.dat": "sha256-OxylFgLJlFqixsj+nLxYVsv5iZLvfIKMpLf9hrWaChA=",
+      "icudt.dat": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE="
     },
     "satelliteResources": null
   }
